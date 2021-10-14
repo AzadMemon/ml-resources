@@ -32,7 +32,7 @@ A place to catalogue some of the interesting learning resources encountered thro
 
 **RNN**
 * [RNN Effectiveness](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-* [Attention and Augmented RNNS](Attention and Augmented Recurrent Neural Networks)
+* [Attention and Augmented RNNS](https://distill.pub/2016/augmented-rnns/)
 
 **Seq2Seq**
 * [Attention](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html#a-family-of-attention-mechanisms)
@@ -45,14 +45,14 @@ A place to catalogue some of the interesting learning resources encountered thro
 
 **CNNs**
 * [R-CNN Family](https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html)'
-* [Fast-CNN Family] (https://lilianweng.github.io/lil-log/2018/12/27/object-detection-part-4.html)
+* [Fast-CNN Family](https://lilianweng.github.io/lil-log/2018/12/27/object-detection-part-4.html)
 
 **Word Embeddings**
 * [Ruder - Word Embedding Series](https://ruder.io/word-embeddings-1/)
 * [Stop using Word2Vec - Alternatives](https://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/)
 
 **Transformers**
-* [Transformers] (https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
+* [Transformers](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
 * [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 * [Illustrated GPT2](http://jalammar.github.io/illustrated-gpt2/)
 * [Illustrated GPT3](http://jalammar.github.io/how-gpt3-works-visualizations-animations/)
@@ -63,6 +63,9 @@ A place to catalogue some of the interesting learning resources encountered thro
 * [Brilliant Gaussian Mixture Models](https://brilliant.org/wiki/gaussian-mixture-model/)
 * [Python DataSci Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html)
   
+**Gradient Descent Optimizations**
+* [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)
+
 **Entropy**
 * [Entropy, Cross-Entropy, KL-Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8&ab_channel=Aur%C3%A9lienG%C3%A9ron)
 * [Softmax == Cross-Entropy](https://cs231n.github.io/linear-classify/)
