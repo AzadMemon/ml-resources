@@ -24,6 +24,12 @@ A place to catalogue some of the interesting learning resources encountered thro
 * [NLP's ImageNet Moment](https://thegradient.pub/nlp-imagenet/)
 * [Why is Machine Learing Hard](http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
 
+
+**General Code/Paper Explanations**
+* [LabMLAi](https://nn.labml.ai/index.html)
+* [PapersWithCode](https://paperswithcode.com/)
+
+
 **Neural Networks**
 * [Manifold Hypothesis](https://deepai.org/machine-learning-glossary-and-terms/manifold-hypothesis)
 * [Colah Manifolds](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
