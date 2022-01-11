@@ -90,6 +90,9 @@ A place to catalogue some of the interesting learning resources encountered thro
 * [Machine Learning Yearning](https://www.goodreads.com/en/book/show/30741739-machine-learning-yearning)
 * [Explaining using SHAP Values](https://github.com/slundberg/shap)
 
+**ML Ops**
+* [You Don't Need a Bigger Boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)
+
 **AutoEncoders**
 * [Deep Notes Deep Clustering](https://deepnotes.io/deep-clustering)
 * [Variational AutoEncoders](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
