@@ -9,6 +9,8 @@ A place to catalogue some of the interesting learning resources encountered thro
 * [Fullstack Deep Learning](https://fullstackdeeplearning.com/spring2021/) - Completed
 * [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/schedule.html)
+* [Stats110 Harvard Edx: Statistics & Probability](https://projects.iq.harvard.edu/stat110/youtube)
+* [Fundamentals of Statistics MIT Edx](https://learning.edx.org/course/course-v1:MITx+18.6501x+1T2022/home)
   
 **Books**
 * [The Deep Learning Book](https://www.deeplearningbook.org/) - Completed
