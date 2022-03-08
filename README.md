@@ -4,7 +4,7 @@ A place to catalogue some of the interesting learning resources encountered thro
 
 
 **Courses**
-* [CS 229](https://see.stanford.edu/Course/CS229)
+* [CS 229](https://see.stanford.edu/Course/CS229) - Completed
 * [CS 329](https://stanford-cs329s.github.io/syllabus.html) - Completed
 * [Fullstack Deep Learning](https://fullstackdeeplearning.com/spring2021/) - Completed
 * [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
