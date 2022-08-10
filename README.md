@@ -3,6 +3,14 @@
 A place to catalogue some of the interesting learning resources encountered through my ML learning journey.
 
 
+**People of Interest Blog**
+* [Chip Huyen](https://huyenchip.com/)
+* [Lilian Weng](https://lilianweng.github.io/)
+* [Sebastian Ruder](https://ruder.io/)
+* [Distil](https://distill.pub/)
+* [Colah](https://colah.github.io/)
+
+
 **Courses**
 * [CS 229](https://see.stanford.edu/Course/CS229) - Completed
 * [CS 329](https://stanford-cs329s.github.io/syllabus.html) - Completed
@@ -11,7 +19,8 @@ A place to catalogue some of the interesting learning resources encountered thro
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/schedule.html)
 * [Stats110 Harvard Edx: Statistics & Probability](https://projects.iq.harvard.edu/stat110/youtube)
 * [Fundamentals of Statistics MIT Edx](https://learning.edx.org/course/course-v1:MITx+18.6501x+1T2022/home)
-  
+
+
 **Books**
 * [The Deep Learning Book](https://www.deeplearningbook.org/) - Completed
 * [DL2AI](https://d2l.ai/index.html)
@@ -91,6 +100,8 @@ A place to catalogue some of the interesting learning resources encountered thro
 * [Data Science Process Overview](https://docs.microsoft.com/en-us/azure/architecture/data-science-process/overview)
 * [Machine Learning Yearning](https://www.goodreads.com/en/book/show/30741739-machine-learning-yearning)
 * [Explaining using SHAP Values](https://github.com/slundberg/shap)
+* [Data Shifts and Monitoring](https://huyenchip.com/2022/02/07/data-distribution-shifts-and-monitoring.html)
+
 
 **ML Ops**
 * [You Don't Need a Bigger Boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)
